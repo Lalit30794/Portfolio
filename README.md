@@ -1,37 +1,8 @@
-# Portfolio
-**Project Description**
+# React + Vite
 
-Portfolio is a personal portfolio website that showcases your work, skills, and experience. It includes sections for projects, education, and contact information.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Features
+Currently, two official plugins are available:
 
-📝 Personal bio and introduction
-
-🛠️ Showcase of projects with descriptions and links
-
-📋 Skills and expertise section
-
-🎓 Education and experience timeline
-
-📬 Contact form
-
-# Installation
-
-Clone the repository: git clone <repository-url>
-
-Navigate to the project directory: cd portfolio
-
-Install dependencies: npm install
-
-Run the project: npm start
-
-# Usage
-
-Customize the content with your personal information.
-
-Add your projects and relevant details.
-
-Use the contact form for visitors to get in touch.
-
-# Contact
-📧 For any inquiries, please contact lalitkatheriya9941@gmail.com
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
