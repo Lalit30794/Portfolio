@@ -1,9 +1,8 @@
-# Portfolio
-**Project Description**
+# React + Vite
 
-Portfolio is a personal portfolio website that showcases your work, skills, and experience. It includes sections for projects, education, and contact information.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Features
+Currently, two official plugins are available:
 
 📝 Personal bio and introduction
 
